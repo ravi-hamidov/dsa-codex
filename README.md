@@ -15,7 +15,7 @@ The philosophy behind this project is simple yet challenging:
 To keep the project organized and easy to navigate, I adhere to the following folder structure:
 
 ```markdown
-algo-data-structure/
+dsa-codex/
 │
 ├── .gitignore  
 ├── README.md # Folder structure etc. for better understanding
@@ -32,11 +32,14 @@ algo-data-structure/
 │ ├── Solution.java
 │ └── solution.js
 │
-├── 003-Palindrome-Number/
-│ ├── README.md
-│ ├── solution.py
-│ ├── Solution.java
-│ └── solution.js
-│
 └── . . . (and other days . . .)
 ```
+
+## Solved Problems
+
+| Day      | Problem                   | Difficulty |
+| :------- | :------------------------ | :--------- |
+| 07.10.25 | [Two Sum](./001_two-sum/) | Easy       |
+| 08.10.25 | [Reverse String]()        | Easy       |
+| 09.10.25 | [Palindrome Number]()     | Easy       |
+| ...      | ...                       | ...        |
