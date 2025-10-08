@@ -14,7 +14,7 @@ The philosophy behind this project is simple yet challenging:
 
 To keep the project organized and easy to navigate, I adhere to the following folder structure:
 
-
+```markdown
 algo-data-structure/
 │
 ├── .gitignore          # Derlenmiş dosyaları vb. görmezden gelmek için
@@ -38,4 +38,6 @@ algo-data-structure/
 │   ├── Solution.java
 │   └── solution.js
 │
-└── ... (ve diğer günler)
+└── ... (and other days . . .)
+
+```
