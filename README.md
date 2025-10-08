@@ -6,9 +6,9 @@ Welcome to my personal learning adventure, a journey dedicated to mastering the 
 
 The philosophy behind this project is simple yet challenging:
 
-* **One Problem a Day:** Every day, I tackle a new data structure or algorithm problem from platforms like LeetCode and HackerRank.
-* **Three Distinct Languages:** Each problem is solved in three distinct languages—**Python**, **Java**, and **JavaScript**—to gain diverse perspectives on the solution.
-* **Comparative Learning:** The objective is not merely to find the correct answer, but to compare the unique approaches, strengths, and weaknesses of each language for the same problem.
+- **One Problem a Day:** Every day, I tackle a new data structure or algorithm problem from platforms like LeetCode and HackerRank.
+- **Three Distinct Languages:** Each problem is solved in three distinct languages—**Python**, **Java**, and **JavaScript**—to gain diverse perspectives on the solution.
+- **Comparative Learning:** The objective is not merely to find the correct answer, but to compare the unique approaches, strengths, and weaknesses of each language for the same problem.
 
 ## Repository Structure
 
@@ -17,27 +17,26 @@ To keep the project organized and easy to navigate, I adhere to the following fo
 ```markdown
 algo-data-structure/
 │
-├── .gitignore          # Derlenmiş dosyaları vb. görmezden gelmek için
-├── README.md           # Projenin ana açıklaması ve ilerleme tablosu
+├── .gitignore  
+├── README.md # Folder structure etc. for better understanding
 │
 ├── 001-Two-Sum/
-│   ├── README.md       # Problemin açıklaması, çözüm yaklaşımın ve karmaşıklık analizi
-│   ├── solution.py     # Python çözümü
-│   ├── Solution.java   # Java çözümü
-│   └── solution.js     # JavaScript çözümü
+│ ├── README.md # Explanation of Problem
+│ ├── solution.py # Python solution
+│ ├── Solution.java # Java solution
+│ └── solution.js # JavaScript solution
 │
 ├── 002-Reverse-String/
-│   ├── README.md
-│   ├── solution.py
-│   ├── Solution.java
-│   └── solution.js
+│ ├── README.md
+│ ├── solution.py
+│ ├── Solution.java
+│ └── solution.js
 │
 ├── 003-Palindrome-Number/
-│   ├── README.md
-│   ├── solution.py
-│   ├── Solution.java
-│   └── solution.js
+│ ├── README.md
+│ ├── solution.py
+│ ├── Solution.java
+│ └── solution.js
 │
-└── ... (and other days . . .)
-
+└── . . . (and other days . . .)
 ```
